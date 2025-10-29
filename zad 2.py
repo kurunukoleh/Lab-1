@@ -1,0 +1,1 @@
+print("studiuję na WSIZ")
